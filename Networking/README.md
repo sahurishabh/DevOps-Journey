@@ -11,13 +11,13 @@ Welcome to this repository of foundational **networking concepts** — essential
 The OSI model is a conceptual framework that helps us understand how different networking protocols work together. It breaks the communication process into 7 layers, from sending data physically to interacting with applications.
 
 **OSI Layers:**
-1. **Physical** – Hardware and raw bit transmission (e.g., cables, switches)
-2. **Data Link** – Node-to-node communication, MAC addressing
-3. **Network** – Routing and IP addressing (e.g., routers)
-4. **Transport** – Reliable delivery (e.g., TCP, UDP)
-5. **Session** – Session management and dialog control
+1. **Physical**     – Hardware and raw bit transmission (e.g., cables, switches)
+2. **Data Link**    – Node-to-node communication, MAC addressing
+3. **Network**      – Routing and IP addressing (e.g., routers)
+4. **Transport**    – Reliable delivery (e.g., TCP, UDP)
+5. **Session**      – Session management and dialog control
 6. **Presentation** – Data translation, encryption, compression
-7. **Application** – End-user interaction (e.g., HTTP, FTP)
+7. **Application**  – End-user interaction (e.g., HTTP, FTP)
 
 ---
 
@@ -28,9 +28,9 @@ TCP/IP is also used for communication within private networks, such as intranets
 
 **TCP/IP Layers:**
 1. **Network Access** – Physical + Data Link
-2. **Internet** – IP addressing and routing
-3. **Transport** – TCP/UDP for end-to-end communication
-4. **Application** – HTTP, FTP, DNS, etc.
+2. **Internet**       – IP addressing and routing
+3. **Transport**      – TCP/UDP for end-to-end communication
+4. **Application**    – HTTP, FTP, DNS, etc.
 
 ---
 
