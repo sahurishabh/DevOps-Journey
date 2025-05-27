@@ -2,11 +2,11 @@
 
 Welcome to my **DevOps Journey**, where I'll be sharing a step-by-step learning path from the basics to advanced concepts and tools in the world of DevOps.
 
-## 📌 What to Expect:
+## 📌 What to Expect
 
 * A structured learning roadmap covering both **fundamental concepts** and **hands-on tools**.
 * Topics and tools will include **Git**, **CI/CD**, **Docker**, **Kubernetes**, **AWS**, **Terraform**, and many more.
-* I’ll be sharing regular updates on my **progress** right here and on **LinkedIn** to stay accountable and connect with fellow learners and professionals.
+* I’ll share updates on my **progress** right here and on **LinkedIn** to stay accountable and connect with fellow learners and professionals.
 
 ---
 
